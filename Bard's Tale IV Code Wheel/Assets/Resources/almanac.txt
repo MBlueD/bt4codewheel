@@ -1,0 +1,96 @@
+1 Malefian Essence
+2 Sweat Bun
+3 Porridge
+4 Pie
+5 Sugar
+6 Elven Wine
+7 Green Elfcress
+8 Fairy Dust
+9 Fiber
+10 Stagswift Wine
+11 Steak
+12 Daffodil Seed
+13 Cooking Herbs
+14 Bone Shards
+15 Bread
+16 Beast and Cabbage
+17 Broth
+18 Blazepitch
+19 Bottle of Orange Ink
+20 Bottle of Green Ink
+21 Blazepitch
+22 Cooking Herbs
+23 Sandwich
+24 Cider
+25 Haggis
+26 Apple
+27 Hearty Stew
+28 Dwarven Stout
+29 Grain
+30 Broth
+31 Stagswift Wine
+32 Thistle Seed
+33 Hearty Stew
+34 Roasted Carrot
+35 Hellebore Seed
+36 Cider
+37 Blue Witchroot
+38 Wood
+39 Tea
+40 lily Seed
+41 Keg
+42 Onion
+43 Potato
+44 Tropical Drink
+45 Charcoal
+46 Malefian Essence
+47 Daffodil Seed
+48 Shepherds Pie
+49 Bone Shards
+50 Fiber
+51 Blessed Wafer
+52 Red Colewort
+53 Selkie's Tears
+54 Carrot
+55 Lily Seed
+56 Deathcap Mushrooms
+57 Fermented Spiirit
+58 Baked Potato
+59 Meat
+60 Bluebell Seed
+61 Soup
+62 Metal Scraps
+63 Beast and Cabbage
+64 Pie
+65 Thistle Seed
+66 Bread
+67 Mushrooms
+68 Gold Trefoil
+69 Cabbage
+70 Baked Potato
+71 Steak
+72 Roast Beast
+73 Porridge
+74 Dwarven Stout
+75 Tropical Drink
+76 Haggis
+77 Selkie's Tears
+78 Keg
+79 Meat
+80 Wrecker's Dram
+81 Fairy Dust
+81 Wood
+83 Roasted Carrot
+84 Rotted Food
+85 Sweet Bun
+86 Sandwich
+87 Roast Beast
+88 Fermented Spirit
+89 Shepherds Pie
+90 Hellebore Seed
+91 Metal Scraps
+92 Bluebell Seed
+93 Water
+94 Tea
+95 Soup
+96 Blessed Wafer
